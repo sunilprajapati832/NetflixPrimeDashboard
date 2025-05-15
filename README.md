@@ -57,12 +57,13 @@ The dataset contains **8,808 rows** and the following columns:
 ## 📂 Project Files
 
 - `netflix_titles.csv` – Source data file  
-- `netflix_dashboard.pbix` – Power BI project file  
+- `NetflixDashboard.pbix` – Power BI project file
+   
 
 ---
 
 ## 📷 Dashboard Preview
 
-_(Add screenshot or GIF here once ready)_
+- `Netflix.png` – Result Dashboard 
 
 ---
