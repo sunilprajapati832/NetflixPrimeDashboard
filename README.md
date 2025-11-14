@@ -22,7 +22,6 @@ This dashboard transforms raw data into an easy-to-understand visual story that 
 
 
 ## 📁 Dataset Overview
-
 The dataset contains **8,808 rows** and the following columns:
 
 | Column Name     | Description                                 |
@@ -40,7 +39,6 @@ The dataset contains **8,808 rows** and the following columns:
 | `listed_in`      | Genres/categories                          |
 | `description`    | Short summary of the content                |
 
----
 
 ## 📊 Dashboard Features
 
