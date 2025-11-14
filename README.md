@@ -1,4 +1,4 @@
-# Project Title: Netflix Insights Dashboard – Power BI Project
+# Project Title: Sales Insights Netflix Dashboard – Power BI Project
 The Netflix Insights Dashboard is an interactive Power BI project designed to analyze global content released on Netflix. Using the netflix_titles.csv dataset, this dashboard uncovers trends in release years, countries, genres, ratings and show types.
 It provides an intuitive, visual understanding of the platform’s content library and supports insights related to global entertainment consumption.
 This project is ideal for Data Analytics, Business Intelligence and Power BI portfolio demonstrations
