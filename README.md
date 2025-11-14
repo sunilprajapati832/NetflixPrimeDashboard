@@ -12,6 +12,15 @@ Netflix hosts thousands of movies and TV shows across several decades, regions a
 * Director and cast distribution
 This dashboard transforms raw data into an easy-to-understand visual story that helps identify historical patterns, content distribution, and viewer-oriented insights.
 
+## Project Files
+| File Name                 | Description                           |
+| ------------------------- | ------------------------------------- |
+| **NetflixDashboard.pbix** | Complete Power BI dashboard file      |
+| **Netflix.png**           | Screenshot preview of final dashboard |
+| **netflix_titles.csv**    | Cleaned dataset used for analysis     |
+| **README.md**             | Project documentation                 |
+
+
 ## 📁 Dataset Overview
 
 The dataset contains **8,808 rows** and the following columns:
