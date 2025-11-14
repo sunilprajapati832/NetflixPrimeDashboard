@@ -85,3 +85,19 @@ Performed in Power BI Power Query:
 - **DAX Measures** – KPIs and advanced calculations
 - **GitHub** – Code & project version control
 
+## Download Files
+**Download Dashboard (PBIX):** https://github.com/sunilprajapati832/NetflixPrimeDashboard/blob/main/NetflixDashboard.pbix
+**Download Dataset (CSV):** https://github.com/sunilprajapati832/NetflixPrimeDashboard/blob/main/netflix_titles.csv
+
+## How to Use This Project
+- Download the .pbix file
+- Open in Power BI Desktop
+- Load the dataset (if needed)
+- Explore all visualizations & filters
+
+## Why This Project Is Valuable for Recruiters
+* Demonstrates real business intelligence skills
+* Shows ability to work with metadata-heavy datasets
+* Highlights advanced PowerBI capabilities (maps, KPIs, DAX, charts)
+* Strong storytelling and dashboard UI skills
+* Perfect for Data Analyst, BI Analyst, Power BI Developer roles
