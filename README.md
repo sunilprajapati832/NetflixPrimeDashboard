@@ -50,48 +50,38 @@ Performed in Power BI Power Query:
 
 
 ## Dashboard Features
-
-### 📌 KPIs Displayed:
+### KPIs Displayed:
 - **Total Shows**
 - **Total Directors**
 - **Total Genres (Listed In)**
 - **Content Range**: From earliest to latest release year
 
-### 📈 Visual Insights:
+### Visual Insights:
 - 🎭 **Genres by Total Shows**
 - 🎬 **Ratings by Movies**
 - 🌍 **Count of Shows by Country**
 - 🎥 **Count of Movies vs. TV Shows**
 - 📅 **Content Added Over Time (Release Year)**
 
-### 🎛 Filters & Slicers:
+### Filters & Slicers:
 - Content Type (Movie / TV Show)
 - Country
 - Release Year
 - Rating
 - Genre (Listed In)
 
----
+## Key Insights
+* USA, India, and the UK dominate Netflix's content addition
+* Drama, Comedy, and Action are the most popular genres
+* Majority of Netflix content is released after 2010, showing exponential growth
+* Movies significantly outnumber TV Shows in the dataset
+* "TV-MA" is the most frequent maturity rating
+* Many titles lack director/cast information, indicating metadata gaps
 
-## 🛠 Skills & Tools Used
+## Tools & Technologies
+- **Power BI** – Visualization & Dashboard Creation
+- **Power Query** – Data Cleaning
+- **CSV Dataset** – Raw data source
+- **DAX Measures** – KPIs and advanced calculations
+- **GitHub** – Code & project version control
 
-- **Power BI Desktop**
-- **Power Query** for data cleaning and transformation
-- **DAX (Data Analysis Expressions)** for calculated metrics
-- **Visual design** and user interactivity in reports
-
----
-
-## 📂 Project Files
-
-- `netflix_titles.csv` – Source data file  
-- `NetflixDashboard.pbix` – Power BI project file
-   
-
----
-
-## 📷 Dashboard Preview
-
-- `Netflix.png` – Result Dashboard 
-
----
