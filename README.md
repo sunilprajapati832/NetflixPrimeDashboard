@@ -48,7 +48,6 @@ Performed in Power BI Power Query:
 * Extracted numeric values from duration column
 * Created calculated columns for enhanced analysis
 
-
 ## Dashboard Features
 ### KPIs Displayed:
 - **Total Shows**
@@ -69,6 +68,10 @@ Performed in Power BI Power Query:
 - Release Year
 - Rating
 - Genre (Listed In)
+
+## Dashboard Preview
+![Dashboard Preview](DashboardImages/AmazonPrimeDashBoard.png)
+![Dashboard Preview](DashboardImages/MobileViewDashboard.gif)
 
 ## Key Insights
 * USA, India, and the UK dominate Netflix's content addition
@@ -101,3 +104,13 @@ Performed in Power BI Power Query:
 * Highlights advanced PowerBI capabilities (maps, KPIs, DAX, charts)
 * Strong storytelling and dashboard UI skills
 * Perfect for Data Analyst, BI Analyst, Power BI Developer roles
+
+## License
+This project is licensed under the **MIT License (Attribution Required)**.  
+If you use or share this work, please credit **Sunil Prajapati** and include a link to this repository.  
+
+## Author
+**Sunil Prajapati**  
+If you found this project interesting, let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832) 
