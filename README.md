@@ -21,7 +21,7 @@ This dashboard transforms raw data into an easy-to-understand visual story that 
 | **README.md**             | Project documentation                 |
 
 
-## 📁 Dataset Overview
+## Dataset Overview
 The dataset contains **8,808 rows** and the following columns:
 
 | Column Name     | Description                                 |
@@ -39,8 +39,17 @@ The dataset contains **8,808 rows** and the following columns:
 | `listed_in`      | Genres/categories                          |
 | `description`    | Short summary of the content                |
 
+## Data Cleaning / Preprocessing
+Performed in Power BI Power Query:
+* Removed empty records and duplicates
+* Handled missing values in country, director, cast fields
+* Split multi-genre fields for visualization
+* Converted date fields into usable date/time formats
+* Extracted numeric values from duration column
+* Created calculated columns for enhanced analysis
 
-## 📊 Dashboard Features
+
+## Dashboard Features
 
 ### 📌 KPIs Displayed:
 - **Total Shows**
