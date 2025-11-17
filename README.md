@@ -4,7 +4,7 @@ It provides an intuitive, visual understanding of the platform’s content libra
 This project is ideal for Data Analytics, Business Intelligence and Power BI portfolio demonstrations
 
 ## Project Purpose / Problem Statement
-Netflix hosts thousands of movies and TV shows across several decades, regions and genres. 
+Netflix hosts thousands of movies and TV shows across several decades, regions and genres. <br> 
 However, raw data alone doesn’t reveal:
 * How content releases evolved over the years
 * Which genres dominate the catalog
